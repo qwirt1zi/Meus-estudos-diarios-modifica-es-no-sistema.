@@ -36,3 +36,8 @@ Repositório dedicado ao meu aprendizado em Defesa Cibernética e Administraçã
 * `git push`: Envia as notas para a nuvem.
 
 > **Dica de Ouro:** Sempre salvar no nano com `Ctrl + O`, `Enter` e sair com `Ctrl + X`.
+
+---
+### 📢 Status de Hoje:
+> **"Passando para dar um alo! O progresso continua assim que possível, jaja estou de volta com as próximas aulas de Blue Team."** 🚀
+---
