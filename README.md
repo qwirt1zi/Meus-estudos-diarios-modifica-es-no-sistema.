@@ -41,3 +41,28 @@ Repositório dedicado ao meu aprendizado em Defesa Cibernética e Administraçã
 ### 📢 Status de Hoje:
 > **"Passando para dar um alo! O progresso continua assim que possível, jaja estou de volta com as próximas aulas de Blue Team."** 🚀
 ---
+
+---
+## 🌍 Manifesto Global: Resiliência no Código
+
+> "A persistência é o caminho do êxito."
+
+| Idioma | Tradução | Idioma | Tradução |
+| :--- | :--- | :--- | :--- |
+| **Português** | Nunca desista | **Russo** | Никогда не сдавайся |
+| **Tcheco** | Nikdy se nevzdávej | **Inglês** | Never give up |
+| **Espanhol** | Nunca te rindas | **Francês** | N'abandonne jamais |
+| **Alemão** | Gib niemals auf | **Italiano** | Non arrenderti mai |
+| **Japonês** | 決して諦めないで | **Chinês** | 永不放弃 |
+| **Coreano** | 절대 포기하지 마세요 | **Árabe** | لا تستسلم أبدا |
+| **Hindi** | हार मत मानो | **Grego** | Ποτέ μην τα παρατάς |
+| **Holandês** | Geef nooit op | **Polonês** | Nigdy się nie poddawaj |
+| **Turco** | Asla vazgeçme | **Sueco** | Ge aldrig upp |
+| **Vietnamita** | Đừng bao giờ bỏ cuộc | **Hebraico** | לעולם אל תתייאש |
+| **Indonésio** | Jangan pernah menyerah | **Tailandês** | อย่า ยอม แพ้ |
+| **Romeno** | Nu renunța niciodată | **Norueguês** | Gi aldri opp |
+| **Húngaro** | Soha ne add fel | **Finlandês** | Älä koskaan luovuta |
+| **Dinamarquês** | Giv aldrig op | **Ucraniano** | Ніколи не здавайся |
+| **Latim** | Numquam cede | **Esperanto** | Neniam rezignu |
+
+---
