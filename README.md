@@ -95,3 +95,16 @@ sudo apt update
 ### 🛠️ Status: Ambiente Configurado
 Cadastro realizado com sucesso. O ambiente está pronto para os primeiros testes de coleta de dados.
 ---
+
+---
+## 🔍 Ferramentas de OSINT: Maltego
+### 🛠️ Status: Ambiente Configurado
+Hoje realizei a instalação e o cadastro oficial no **Maltego** (Community Edition). A ferramenta já está autenticada e pronta para os primeiros testes de mapeamento de infraestrutura e coleta de dados públicos.
+
+**Próximos passos planejados:**
+* [ ] Realizar o primeiro "Footprinting" de um domínio de teste.
+* [ ] Explorar as *Transforms* básicas para mapear registros DNS.
+* [ ] Integrar com outras APIs de busca.
+
+> "A inteligência não é apenas coletar dados, mas conectar os pontos certos."
+---
