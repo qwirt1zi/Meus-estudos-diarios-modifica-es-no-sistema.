@@ -108,3 +108,6 @@ Hoje realizei a instalação e o cadastro oficial no **Maltego** (Community Edit
 
 > "A inteligência não é apenas coletar dados, mas conectar os pontos certos."
 ---
+
+## Eu me cadastrei no linkedin
+estou montando meu curriculo é indo atras de conhecimento e certificações.
