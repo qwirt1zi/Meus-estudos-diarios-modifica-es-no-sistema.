@@ -1,4 +1,4 @@
-# 🛡️ Estudos Blue Team - Segurança e Sistemas Livres
+# 🛡️ Segurança e Sistemas Livres
 
 Repositório dedicado ao meu aprendizado em Defesa Cibernética e Administração de Sistemas.
 
