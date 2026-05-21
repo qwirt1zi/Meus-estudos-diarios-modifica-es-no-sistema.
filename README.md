@@ -18,7 +18,7 @@ Repositório dedicado ao aprendizado em Defesa Cibernética e Administração de
 * **Lançamento:** 16/08/1993.
 * **História:** É a segunda distribuição mais antiga ainda ativa.
 * **Proposta:** O "Sistema Operacional Universal", focado em ser 100% composto por software livre.
-# 📓 Meus Estudos de Blue Team e Linux
+# 🦠 Práticas diárias ajudan(o) no desenvolvimento 
 
 ## 🗓️ Registros (Resolvido)
 ### Erro de Sincronização do Git
