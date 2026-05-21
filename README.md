@@ -39,7 +39,7 @@ Repositório dedicado ao aprendizado em Defesa Cibernética e Administração de
 
 ---
 ### 📢 Status de Hoje:
-> **"Passando para dar um alo! O progresso continua assim que possível, jaja estou de volta com as próximas aulas de Blue Team."** 🚀
+> **"Passando para dar um alo! vou criar um canal para ensinar sobre redes!."** 🚀
 ---
 
 ---
