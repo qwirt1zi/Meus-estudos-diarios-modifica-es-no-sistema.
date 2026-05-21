@@ -14,7 +14,7 @@ Repositório dedicado ao aprendizado em Defesa Cibernética e Administração de
 * **1991:** Surgimento do Kernel Linux.
 * **O Nome Correto:** **GNU/Linux**. O GNU é a ideia original e o conjunto complexo; o Linux é o núcleo (kernel) que foi acrescentado depois.
 
-### 🌀 Distribuição Debian
+### 🌀 Distribuição Debian 'opicional'
 * **Lançamento:** 16/08/1993.
 * **História:** É a segunda distribuição mais antiga ainda ativa.
 * **Proposta:** O "Sistema Operacional Universal", focado em ser 100% composto por software livre.
