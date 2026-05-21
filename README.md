@@ -68,10 +68,6 @@ Repositório dedicado ao aprendizado em Defesa Cibernética e Administração de
 ---
 # 🖥️ Solução: Forçar 120Hz em Gráficos Integrados Intel (4ª Gen) no Debian
 
-Este documento registra a solução técnica para habilitar a taxa de atualização de **120Hz** em 1080p usando o vídeo integrado (iGPU) de processadores Intel Haswell (i3-4160), corrigindo falhas de driver e limitações de largura de banda no Debian Trixie/Sid.
-
----
-
 ## ❌ O Problema (Erro de CRTC)
 Ao tentar adicionar o modo manual via `xrandr`, o sistema retornava o erro:
 `xrandr: Configure crtc 0 failed`
