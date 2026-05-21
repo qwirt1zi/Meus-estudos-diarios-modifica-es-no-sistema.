@@ -20,7 +20,7 @@ Repositório dedicado ao aprendizado em Defesa Cibernética e Administração de
 * **Proposta:** O "Sistema Operacional Universal", focado em ser 100% composto por software livre.
 # 📓 Meus Estudos de Blue Team e Linux
 
-## 🗓️ Registro de Dificuldades (Resolvido)
+## 🗓️ Registros (Resolvido)
 ### Erro de Sincronização do Git
 * **Problema:** O erro `[rejected] master -> master (fetch first)` apareceu ao tentar d>
 * **Causa:** Conflito entre o que estava no site (GitHub) e o que estava no meu PC.
@@ -28,8 +28,8 @@ Repositório dedicado ao aprendizado em Defesa Cibernética e Administração de
 
 ---
 
-## 🛡️ Notas de Aula - Próximos Passos
-### 🐧 Comandos de Terminal que aprendi:
+## 🛡️ Notas de Aula 
+### 🐧 Comandos de Terminal simples:
 * `nano`: Editor de texto direto no terminal.
 * `git add`: Prepara o arquivo para envio.
 * `git commit -m`: Cria um ponto de salvamento com mensagem.
