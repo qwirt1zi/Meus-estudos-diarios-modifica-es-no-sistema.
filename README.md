@@ -1,6 +1,6 @@
 # 🛡️ Segurança e Sistemas Livres
 
-Repositório dedicado ao meu aprendizado em Defesa Cibernética e Administração de Sistemas.
+Repositório dedicado ao aprendizado em Defesa Cibernética e Administração de Sistemas.
 
 ## 🐧 Fundamentos de Software Livre (Aula 02)
 
