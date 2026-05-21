@@ -1,4 +1,4 @@
-# 🛡️ Segurança e Sistemas Livres
+# 🛡️ Segurança Se cuide tome cuidado السلامة أولاً. 
 
 Repositório dedicado ao aprendizado em Defesa Cibernética e Administração de Sistemas.
 
