@@ -17,8 +17,7 @@ Repositório dedicado ao aprendizado em Defesa Cibernética e Administração de
 ### 🌀 Distribuição Debian 'opicional'
 * **Lançamento:** 16/08/1993.
 * **História:** É a segunda distribuição mais antiga ainda ativa.
-* **Proposta:** O "Sistema Operacional Universal", focado em ser 100% composto por software livre.
-# 🦠 Práticas diárias ajudan(o) no desenvolvimento 
+* **Proposta:** O "Sistema Operacional Universal", focado em ser 100% composto por software livre. 
 
 ## 🗓️ Registros (Resolvido)
 ### Erro de Sincronização do Git
